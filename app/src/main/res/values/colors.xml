@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main">#555555</color>
+    <color name="Transparent">#00000000</color>
+
+    <color name="red">#FF3B5C</color>
+    <color name="neon_pink">#FF3B5C</color>
+
+    <color name="selectColor">#171719</color>
+    <color name="unSelectColor">#f8f8ff</color>
+    <color name="textColorHint">#9E9E9E</color>
+
+    <color name="mainLayoutBackground">#1F1F1F</color>
+    <color name="mainItemBackground">#333333</color>
+    <color name="itemColor">#00ced1</color>
+    <color name="mainTextColor">#FFFFFFFF</color>
+    <color name="text2Color">#d4d1ce</color>
+
+    <color name="gray">#7D7D7D</color>
+    <color name="light_gray">#F5F5F5</color>
+
+    <!-- Button Colors -->
+    <color name="button_bg">#007AFF</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Ad-Free UI Theme -->
+    <color name="premium_gold">#FFD700</color>  <!-- Gold for premium features -->
+    <color name="premium_bg">#FAF0E6</color>   <!-- Light beige for a rich feel -->
+
+</resources>
